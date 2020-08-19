@@ -1,13 +1,14 @@
 {
-  "main.css": "/static/css/main.92eb1ea1.chunk.css",
-  "main.js": "/static/js/main.bac50984.chunk.js",
-  "main.js.map": "/static/js/main.bac50984.chunk.js.map",
-  "static/js/1.8771d412.chunk.js": "/static/js/1.8771d412.chunk.js",
-  "static/js/1.8771d412.chunk.js.map": "/static/js/1.8771d412.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.229c360f.js",
-  "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
-  "static/css/main.92eb1ea1.chunk.css.map": "/static/css/main.92eb1ea1.chunk.css.map",
-  "index.html": "/index.html",
-  "precache-manifest.653c5445bf1e204b2739211b5970c822.js": "/precache-manifest.653c5445bf1e204b2739211b5970c822.js",
-  "service-worker.js": "/service-worker.js"
+  "main.css": "/alisam1/3DaVinci_test.git/static/css/main.ad26a766.chunk.css",
+  "main.js": "/alisam1/3DaVinci_test.git/static/js/main.e506827e.chunk.js",
+  "main.js.map": "/alisam1/3DaVinci_test.git/static/js/main.e506827e.chunk.js.map",
+  "static/js/1.22ca81e4.chunk.js": "/alisam1/3DaVinci_test.git/static/js/1.22ca81e4.chunk.js",
+  "static/js/1.22ca81e4.chunk.js.map": "/alisam1/3DaVinci_test.git/static/js/1.22ca81e4.chunk.js.map",
+  "runtime~main.js": "/alisam1/3DaVinci_test.git/static/js/runtime~main.11c1fd5d.js",
+  "runtime~main.js.map": "/alisam1/3DaVinci_test.git/static/js/runtime~main.11c1fd5d.js.map",
+  "static/media/heart_logo.svg": "/alisam1/3DaVinci_test.git/static/media/heart_logo.29178028.svg",
+  "static/css/main.ad26a766.chunk.css.map": "/alisam1/3DaVinci_test.git/static/css/main.ad26a766.chunk.css.map",
+  "index.html": "/alisam1/3DaVinci_test.git/index.html",
+  "precache-manifest.fcc6fb1d48383119897f13c2a7bec38f.js": "/alisam1/3DaVinci_test.git/precache-manifest.fcc6fb1d48383119897f13c2a7bec38f.js",
+  "service-worker.js": "/alisam1/3DaVinci_test.git/service-worker.js"
 }

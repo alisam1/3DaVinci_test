@@ -1,7 +1,7 @@
 import React, { Component } from 'react'
 import Header from './Header'
 import Sidebar from './Sidebar'
-import './sass/style.scss'
+import './scss/style.scss'
 
 
 class App extends Component {

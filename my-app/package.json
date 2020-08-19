@@ -5,6 +5,7 @@
   "homepage": "https://github.com/alisam1/3DaVinci_test.git",
   "dependencies": {
     "@material-ui/icons": "^4.9.1",
+    "gh-pages-webpack-plugin": "^1.0.2",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-router-dom": "^5.2.0",

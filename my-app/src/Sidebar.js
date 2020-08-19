@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { BrowserRouter, Link } from "react-router-dom";
-import './sass/style.scss'
+import './scss/style.scss'
 import PeopleAltIcon from '@material-ui/icons/PeopleAlt';
 import PersonIcon from '@material-ui/icons/Person';
 import ShoppingCartIcon from '@material-ui/icons/ShoppingCart';
