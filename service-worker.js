@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/alisam1/3DaVinci_test/precache-manifest.9dc9c05c513f67d0fba47f41cb42d989.js"
+  "/3DaVinci_test/precache-manifest.d60ab713141fe6271c8b5d06ac406069.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/alisam1/3DaVinci_test/index.html", {
+workbox.routing.registerNavigationRoute("/3DaVinci_test/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
