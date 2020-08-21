@@ -1,0 +1,152 @@
+.sidebar{
+    width: 87px;
+    height: 100vh;
+    position: fixed;
+    z-index: 999;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    background: linear-gradient(to top, #4e48a4, #352F56);
+    padding-bottom: 35px;
+    box-sizing: border-box;
+    &__list{
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+    }
+    &__item{
+        list-style-type: none;
+        margin: 0;
+        cursor: pointer;
+        display: flex;
+        height: 60px;
+        width: 60px;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+        margin-bottom: 10px;
+        &--user{
+            position: relative;
+            &:hover:after{
+                content:"Пользователь";
+                position: absolute;
+                font-family: 'Roboto', sans-serif;
+                color: #fff;
+                font-size: 8px;
+                bottom: 5px;
+
+            }
+        }
+         &--group{
+            position: relative;
+            &:hover:after{
+                content:"Группа";
+                position: absolute;
+                font-family: 'Roboto', sans-serif;
+                color: #fff;
+                font-size: 8px;
+                bottom: 5px;
+
+            }
+        }
+         &--basket{
+            position: relative;
+            &:hover:after{
+                content:"Корзина";
+                position: absolute;
+                font-family: 'Roboto', sans-serif;
+                color: #fff;
+                font-size: 8px;
+                bottom: 5px;
+
+            }
+        }
+         &--work{
+            position: relative;
+            &:hover:after{
+                content:"Работа";
+                position: absolute;
+                font-family: 'Roboto', sans-serif;
+                color: #fff;
+                font-size: 8px;
+                bottom: 5px;
+
+            }
+        }
+        &--question{
+            position: relative;
+            &:hover:after{
+                content:"Вопросы";
+                position: absolute;
+                font-family: 'Roboto', sans-serif;
+                color: #fff;
+                font-size: 8px;
+                bottom: 5px;
+
+            }
+        }
+        &--exit{
+            position: relative;
+            &:hover:after{
+                content:"Выход";
+                position: absolute;
+                font-family: 'Roboto', sans-serif;
+                color: #fff;
+                font-size: 8px;
+                bottom: 5px;
+
+            }
+        }
+        &:hover{
+            background-color: #6b6bbb;
+            border-radius: 6px;
+        }
+        a{
+            width: 100%;
+            height: 100%;
+            display: flex;
+            flex-direction: row;
+            justify-content: center;
+            align-items: center;
+        }
+    }
+    &__top{
+        height: 35px;
+        width: 160px;
+        z-index: 1000;
+        background:#352F56;
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        text-align: center;
+        padding-top: 25px;
+    }
+    &__logo{
+        display: flex;
+        align-items: center;
+        text-align: center;
+        img{
+            display: flex;
+            flex-direction: row;
+            justify-content: center;
+        }
+    }
+    &__middle{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        svg{
+            color: #fff;
+        }
+    }
+    &__bottom{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        svg{
+            color: #fff;
+        }
+    }
+
+}
