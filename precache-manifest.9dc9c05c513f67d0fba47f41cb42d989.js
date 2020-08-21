@@ -8,19 +8,19 @@ self.__precacheManifest = [
     "url": "/alisam1/3DaVinci_test/static/js/runtime~main.887c5e37.js"
   },
   {
-    "revision": "e506827e3c5ada516416",
-    "url": "/alisam1/3DaVinci_test/static/js/main.e506827e.chunk.js"
+    "revision": "b874a49f4133c0ed25cd",
+    "url": "/alisam1/3DaVinci_test/static/js/main.b874a49f.chunk.js"
   },
   {
     "revision": "22ca81e4b45925ecc5f3",
     "url": "/alisam1/3DaVinci_test/static/js/1.22ca81e4.chunk.js"
   },
   {
-    "revision": "e506827e3c5ada516416",
-    "url": "/alisam1/3DaVinci_test/static/css/main.ad26a766.chunk.css"
+    "revision": "b874a49f4133c0ed25cd",
+    "url": "/alisam1/3DaVinci_test/static/css/main.192e1954.chunk.css"
   },
   {
-    "revision": "ac6a8540199f6e7853f66494234419b9",
+    "revision": "afed7edbf020843b451ecc78b43a7095",
     "url": "/alisam1/3DaVinci_test/index.html"
   }
 ];

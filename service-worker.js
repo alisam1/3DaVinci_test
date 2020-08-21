@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/alisam1/3DaVinci_test/precache-manifest.a808a244c2a2c078f22d0940c89d31c7.js"
+  "/alisam1/3DaVinci_test/precache-manifest.9dc9c05c513f67d0fba47f41cb42d989.js"
 );
 
 workbox.clientsClaim();
