@@ -2,7 +2,7 @@
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/alisam1/3DaVinci_test.git",
+  "homepage": "https://github.com/alisam1/3DaVinci_test",
   "dependencies": {
     "@material-ui/icons": "^4.9.1",
     "react": "^16.13.1",
