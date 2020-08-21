@@ -5,7 +5,6 @@
   "homepage": "https://github.com/alisam1/3DaVinci_test.git",
   "dependencies": {
     "@material-ui/icons": "^4.9.1",
-    "gh-pages-webpack-plugin": "^1.0.2",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-router-dom": "^5.2.0",
@@ -32,11 +31,7 @@
   ],
   "devDependencies": {
     "@material-ui/core": "^4.11.0",
-    "babel-loader": "^8.0.4",
     "gh-pages": "^1.2.0",
-    "gulp-cli": "^2.0.1",
-    "node-sass": "^4.11.0",
-    "redux-saga": "^0.16.2",
-    "webpack": "^4.19.1"
+    "node-sass": "^4.11.0"
   }
 }
